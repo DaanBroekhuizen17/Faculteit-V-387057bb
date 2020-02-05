@@ -10,6 +10,6 @@ while ($i <= $nummer){
     $var1 = $var1 * $i;   
     $i++; 
 }
-echo("de Vaculteit van $nummer is $var1");
+print("de Vaculteit van $nummer is $var1");
 
 ?>
